@@ -117,7 +117,7 @@ function userStart(){
               }
             );
           };
-       // run next function here
+       // run next function here if any
       });
     });
 };
